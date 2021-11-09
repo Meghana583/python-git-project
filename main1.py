@@ -1,3 +1,4 @@
+# perfect square
 n=int(input("Enter number"))
 root=n**(1/2)
 if((root*root)==(n)):
